@@ -6,3 +6,4 @@
 output/*
 utils/*
 data/*
+*.pyc
